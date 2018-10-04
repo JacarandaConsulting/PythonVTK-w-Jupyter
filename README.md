@@ -1,2 +1,2 @@
 # PythonVTK-w-Jupyter
-This is an effort to make Python wrapped VTK work with Jupyter Notebook
+This is a collection of examples on visualizing scientific data with Python wrapped VTK in Jupyter Notebook
